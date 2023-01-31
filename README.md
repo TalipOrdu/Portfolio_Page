@@ -1,3 +1,9 @@
+I used React and TailWind technologies. Contact page works with [Form Lınk](https://app.getform.io/)
+
+## [DEMO LINK](https://portfoliopage11.netlify.app/)
+
+![ss1](https://user-images.githubusercontent.com/80225142/215785937-06bd9cef-ee7e-410e-95cb-971ada0cdeda.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
