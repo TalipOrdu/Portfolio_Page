@@ -1,4 +1,4 @@
-I used React and TailWind technologies. Contact page works with [Form Lınk](https://app.getform.io/)
+I used React and TailWind technologies. Contact page works with [Form Link](https://app.getform.io/)
 
 ## [DEMO LINK](https://portfoliopage11.netlify.app/)
 
